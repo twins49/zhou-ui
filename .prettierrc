@@ -1,0 +1,12 @@
+{
+  "eslintIntegration": true,
+  "singleQuote": true,
+  "semi": false,
+  "trailingComma": "all",
+  "bracketSpacing": true,
+  "jsxBracketSameLine": true,
+  "arrowParens": "avoid",
+  "endOfLine": "lf",
+  "tabWidth": 2,
+  "bracketSameLine": true
+}
